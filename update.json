@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.1.1",
+  "versionCode": 14,
+  "versionName": "2.2.0",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "7d31ee60a12a8bbfc504ab9e9080e2bc0964356413d539334eeb44963b9f895e",
-  "notes": "Thêm nút mở phần Wi-Fi của điện thoại trong mục Kết nối thiết bị."
+  "sha256": "be80e8f53067d57d7426e552ef6b672d4ed7201da9e3be9ae0bf3ecb10ca9273",
+  "notes": "Cập nhật firmware ESP online qua GitHub, có kiểm tra SHA-256 và xác nhận trước khi nạp."
 }
