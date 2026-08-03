@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7.0",
+  "versionCode": 9,
+  "versionName": "1.8.0",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "28ca792cb7f80fb6c420389d75f510afde9342fafed6c54eaaf3a5252a6fff96",
-  "notes": "Thiết lập dạng mục mở rộng, bổ sung Thông tin & cập nhật và Cre.Tuấn Kiệt."
+  "sha256": "0874cb91656a43a0d316725f42f02c7ada3bc2c911894534b468fe02a5081589",
+  "notes": "Chỉ cảnh báo một lần khi nước đầy, có chuông lịch sử và cài đặt thông báo."
 }
