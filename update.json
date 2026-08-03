@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0.0",
+  "versionCode": 12,
+  "versionName": "2.1.0",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "5c272836dc1071779a0042c6cb3159182719dcc960d908a9079fc4ac511cb951",
-  "notes": "Thêm số thông báo chưa đọc trên biểu tượng chuông."
+  "sha256": "5a90b14fae6df32fe0b6f1fcf1984033e4c40fd41add7c560423ff40b05b1ea7",
+  "notes": "Thiết lập Wi-Fi trực tiếp cho ESP8266 trong mục Kết nối thiết bị."
 }
