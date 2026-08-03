@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9.0",
+  "versionCode": 11,
+  "versionName": "2.0.0",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "dc8b6b16e193a0b0b0d6800358e01b4b4794337e2c8d19f4cce95723f42eb9d8",
-  "notes": "Lịch sử thông báo mới, tự quét cập nhật và tùy chọn cảnh báo theo nhu cầu."
+  "sha256": "5c272836dc1071779a0042c6cb3159182719dcc960d908a9079fc4ac511cb951",
+  "notes": "Thêm số thông báo chưa đọc trên biểu tượng chuông."
 }
