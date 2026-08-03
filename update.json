@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.3.0",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "0c8f2a7d7e197c7b9792e8b06e8f1c4b1a09b9930825f928ec7280c607502cd2",
-  "notes": "Them kiem tra, tai va cap nhat WaterGuard online qua GitHub."
+  "sha256": "5ec7f97f74a5e6d210c25e308ed85ec7e32573fe539b24171e3c08da35ff5775",
+  "notes": "Chuyen IP, firmware ESP va cap nhat app vao menu thiet lap mo bang nut ba gach."
 }
