@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "binUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard-firmware.bin",
+  "sha256": "7c06a35e3464d587a3c2f4b418765ab125ce02db4584c81f090d83adaad0cafb",
+  "notes": "Bổ sung đổi Wi-Fi trong ứng dụng, giao diện LCD mới và cập nhật firmware online."
+}
