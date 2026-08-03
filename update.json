@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8.0",
+  "versionCode": 10,
+  "versionName": "1.9.0",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "0874cb91656a43a0d316725f42f02c7ada3bc2c911894534b468fe02a5081589",
-  "notes": "Chỉ cảnh báo một lần khi nước đầy, có chuông lịch sử và cài đặt thông báo."
+  "sha256": "dc8b6b16e193a0b0b0d6800358e01b4b4794337e2c8d19f4cce95723f42eb9d8",
+  "notes": "Lịch sử thông báo mới, tự quét cập nhật và tùy chọn cảnh báo theo nhu cầu."
 }
