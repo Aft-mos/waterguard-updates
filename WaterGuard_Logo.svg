@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="WaterGuard">
+  <rect width="512" height="512" rx="112" fill="#12365B"/>
+  <path d="M256 73c-47 67-110 133-110 218 0 65 49 119 110 119s110-54 110-119C366 206 303 140 256 73Z" fill="#38D9C7"/>
+  <path d="M256 143c-24 37-58 79-58 130 0 33 25 61 58 61s58-28 58-61c0-51-34-93-58-130Z" fill="#E8FFFB" opacity=".9"/>
+  <path d="M256 181l77 30v67c0 53-33 91-77 111-44-20-77-58-77-111v-67l77-30Z" fill="#12365B"/>
+  <path d="m222 278 22 22 49-54" fill="none" stroke="#38D9C7" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

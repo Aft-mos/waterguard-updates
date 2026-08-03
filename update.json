@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
+  "versionCode": 7,
+  "versionName": "1.6.0",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "22e461b797895e3086cfaf4ae111767ef666c8eb61b2208aa7c04605daa3eee8",
-  "notes": "Thêm biểu tượng nước và cảnh báo, chuẩn hóa tiếng Việt có dấu, làm lại hộp xác nhận." 
+  "sha256": "1f628bd0f5f7616dd7884edefcc5942c7e513ad37ea41f1a2720f2acb3b2671d",
+  "notes": "Thiết kế điều khiển bằng biểu tượng, logo WaterGuard và màn hình khởi động mới."
 }
