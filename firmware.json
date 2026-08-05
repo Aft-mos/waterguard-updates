@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.8",
   "binUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard-firmware.bin",
-  "sha256": "7291063d6d7c54c806f9fca0b173d682614f4d03d7e9beca80ed76f108942959",
-  "notes": "Tối ưu bộ nhớ: IRAM 70%, giảm cấp phát động và giảm tần suất quét web."
+  "sha256": "b40178635548726e944370bbd457ea3bd7056c00fb221845017f9696196b4c6a",
+  "notes": "LCD tự tắt cả nội dung và đèn nền sau 5 phút không thao tác."
 }
