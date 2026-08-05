@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "2.2.0",
+  "versionCode": 15,
+  "versionName": "2.2.1",
   "apkUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard.apk",
-  "sha256": "be80e8f53067d57d7426e552ef6b672d4ed7201da9e3be9ae0bf3ecb10ca9273",
-  "notes": "Cập nhật firmware ESP online qua GitHub, có kiểm tra SHA-256 và xác nhận trước khi nạp."
+  "sha256": "79f2dec963c6159da0fd43ee2c536d34844ab733861ce51a9a3222d7f2b3eec6",
+  "notes": "Sửa lỗi ứng dụng bị dừng sau nhiều giờ: dùng dịch vụ giám sát thiết bị đúng chuẩn Android và chặn hàng đợi mạng bị dồn."
 }
