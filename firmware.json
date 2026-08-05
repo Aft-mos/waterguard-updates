@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
+  "versionCode": 10,
+  "versionName": "1.0.9",
   "binUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard-firmware.bin",
-  "sha256": "b40178635548726e944370bbd457ea3bd7056c00fb221845017f9696196b4c6a",
-  "notes": "LCD tự tắt cả nội dung và đèn nền sau 5 phút không thao tác."
+  "sha256": "5e282b1f31efb72f7f42e388c6b7032981f2839faf64763e026d9d2afd959a1b",
+  "notes": "Âm báo nước đầy vui hơn, giảm còn 3 lượt và giảm âm lượng bằng PWM."
 }
