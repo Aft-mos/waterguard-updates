@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.0.3",
   "binUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard-firmware.bin",
-  "sha256": "24ed1797e2b5da827e2ff7a008b5a09a768b1c0eb7f5b373461ea04bd7e8f26b",
-  "notes": "Sửa chiều kích relay: relay chỉ kích khi mở van."
+  "sha256": "e7d58387f25b993c26fd38fe08e6731fdae2a54fbf5295fb99fb3745dea3e2d7",
+  "notes": "Thêm 3 giây khởi động an toàn: van giữ đóng trước khi nhận lệnh."
 }
