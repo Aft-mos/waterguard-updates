@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "binUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard-firmware.bin",
-  "sha256": "e7d58387f25b993c26fd38fe08e6731fdae2a54fbf5295fb99fb3745dea3e2d7",
-  "notes": "Thêm 3 giây khởi động an toàn: van giữ đóng trước khi nhận lệnh."
+  "sha256": "cb64c44ea61d364f43718f6deb6e5289d9e686d3a3fe34fc2700d1f44a0bbc6a",
+  "notes": "LCD chỉ cập nhật khi đổi nội dung và tự tắt đèn nền sau 5 phút không thao tác."
 }
