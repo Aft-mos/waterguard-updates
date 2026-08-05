@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 8,
+  "versionName": "1.0.7",
   "binUrl": "https://raw.githubusercontent.com/Aft-mos/waterguard-updates/main/WaterGuard-firmware.bin",
-  "sha256": "e242a7016070589634a82aee7ae3f091a7df1fa0404c917b22a2594f355f5af1",
-  "notes": "Chỉ cảnh báo phao khi van đang mở; chặn mở van nếu phao đang báo đầy."
+  "sha256": "7291063d6d7c54c806f9fca0b173d682614f4d03d7e9beca80ed76f108942959",
+  "notes": "Tối ưu bộ nhớ: IRAM 70%, giảm cấp phát động và giảm tần suất quét web."
 }
